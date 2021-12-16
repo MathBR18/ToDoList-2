@@ -1,0 +1,23 @@
+.cointainer{
+    max-width: 800px;
+    margin: auto;
+}
+
+#newTask{
+    height:35px;
+    width: 80%;
+}
+
+button{
+    height:40px;
+    background-color:cornflowerblue;
+    color: white;
+    font: size 1.2em;
+    border: none;
+    border-radius:3px;
+
+}
+
+h1{
+    margin-left: 500px;
+}
